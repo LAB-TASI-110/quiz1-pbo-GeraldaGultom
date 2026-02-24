@@ -1,0 +1,16 @@
+aku sedang belajar pemrograman berorientasi objek menggunakan java language
+jadi aku ingin membuat sistem yang dapat mendukung operasional sehari-hari di Laundry Del
+dimana laundry del itu merupakan usaha jasa laundry yang ada di Institut Teknologi Del
+yang disediakan kampus untuk mempermudah mahasiswa dalam proses pembersihan pakaian
+jangka waktu penjemputan dan pengantaran satu hari
+misalnya terdapat data asrama yang ada di IT Del sebagai berikut:
+Asrama Kembar (Penjemputan hari Selasa, pengantaran rabu)
+Asrama Max Planc (Penjemputan hari Rabu)
+Asrama Marie Curie (Penjemputan hari Jumat)
+Asrama Archimedes & Louis Pasteur (Penjemputan hari Senin)
+Asrama Nikola Tesla (Penjemputan hari Kamis)
+kapasitas maksimum dalam laundry bag adalah 7 kg
+berdasarkan informasi berikut berikan aku codes yang relevan dan terarah mengenai sistem laundry del
+beri inputan dan output nantinya juga
+berikan aku codes yang relevan dan terarah berdasarkan informasi laundry del yang telah ku berikan tadi
+btw harga laundry itu 45.000/bulan
