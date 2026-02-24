@@ -1,0 +1,12 @@
+jadi aku sedang belajar pemrograman berorirentasi objek menggunakan java language, berikut diberikan masalah yang harus diselesaikan
+sesuaikan perintah soal sesuai dengan instruksi yang diberikan, beri codes yang relevan dan terarah
+jadi kami juga diberikan file yang berisi codes berikut
+public class Driver1 {
+    
+}
+sesuaikan dengan codes yang kau beri untuk file driver1.java
+begini isi file dari driver1.java sesuaikan codesnya agar input dan output nantinya sesuai perintah soal
+tidak bisa dijalankan programnya muncul error seperti ini
+masih tidak bisa dijalankan codesnya muncul error seperti inierror: Invalid filename: src/model/*.java
+Usage: javac <options> <source files>
+use --help for a list of possible options
