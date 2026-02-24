@@ -1,0 +1,10 @@
+jadi aku sedang mengerjakan masalah dalam pemrograman berorientasi objek, berikut persoalannya
+berikan aku codes yang relevan dan terarah berdasarkan soal berikut ini
+soal ini berkaitan dengan array, ikuti instruksi soal dan pastikan inputan dan output nantinya sesuai dengan yang ditentukan
+perhatikan juga gambar yang sudah ku lampirkan
+pahami soalnya dimana letak deretnya, polanya, nilainya, dan urutan jenis kelaminnya
+kenapa error tidak bisa dicompile? beri solusi
+error di bagian sini, beri solusi
+beri contoh inputan
+apa untuk menghentikan proses inputan
+muncul error begini
